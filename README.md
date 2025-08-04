@@ -16,8 +16,8 @@
 ---
 
 ## 🧠 ఈ టూల్ ఏమిటి?
-
-**AdvancedOSINT Pro v3.0** అనేది ఒక సంపూర్ణ **OSINT (Open Source Intelligence)** టూల్, ఇది క్రింది రీకాన్ అవసరాల కోసం ఉపయోగించబడుతుంది:
+## ⚠️ గమనిక PASSWORD 1234
+**AdvancedOSINT Pro V2.0** అనేది ఒక సంపూర్ణ **OSINT (Open Source Intelligence)** టూల్, ఇది క్రింది రీకాన్ అవసరాల కోసం ఉపయోగించబడుతుంది:
 
 - 🔍 యూజర్ నేమ్ ట్రాకింగ్ (Social Finder)
 - 🌐 Domain/IP ట్రేసింగ్
@@ -47,7 +47,7 @@
 ```bash
 pkg update && pkg upgrade
 pkg install git python -y
-git clone https://github.com/sunnamsriram1/AdvancedOSINT_Pro
-cd AdvancedOSINT_Pro
+git clone https://github.com/sunnamsriram1/AdvancedOSINT
+cd AdvancedOSINT
 pip install -r requirements.txt
-python3 adv_osint.py
+bash S_OSINT_Recon_Pro_2v.sh
