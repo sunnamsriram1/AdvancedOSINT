@@ -1,6 +1,6 @@
 # AdvancedOSINT
 
-# 🛰️ AdvancedOSINT Pro v3.0
+# 🛰️ AdvancedOSINT Pro V2.0
 
 <p align="center">
   <img src="https://img.shields.io/badge/Tool-Type-OSINT-red?style=for-the-badge">
